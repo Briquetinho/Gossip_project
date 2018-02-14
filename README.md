@@ -1,5 +1,7 @@
 
-#Salut ! Voici le lien de mon heroku: https://fierce-stream-69514.herokuapp.com/gossipss
+# Salut ! Voici le lien de mon heroku: https://young-woodland-18468.herokuapp.com/
+
+# Pour s'inscrire, le lien code du sign up est GOSSIP_2018
 
 ## Si tu veux voir si les test fonctionnent pour la correction, suis ces instructions !
 
